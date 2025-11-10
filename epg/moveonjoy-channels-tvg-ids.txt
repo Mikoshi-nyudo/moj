@@ -184,7 +184,6 @@ TSN.5.ca2
 TV.Land.HD.us2
 TV.ONE.HD.us2
 Television.Jamaica.jm
-plex.tv.UFC.plex
 UPtv.us2
 USA.Network.HD.us2
 VH1.HD.us2
