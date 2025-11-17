@@ -88,7 +88,7 @@ HBO.East.us2
 HBO.Comedy.HD.us2
 Canal.HBO.Family.Latinoamérica.ar
 HBO.Zone.HD.us2
-HBO2.HD.us2
+HBO2.HD.(Pacific).us2
 Home.and.Garden.Television.HD.us2
 History.HD.us2
 HLN.HD.us2
